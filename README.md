@@ -10,7 +10,12 @@
 # Communicate using Markdown
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
-
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
 </header>
 
 <!--
